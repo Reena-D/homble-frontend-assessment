@@ -10,3 +10,13 @@ body,
 .App {
   height: 100%;
 }
+
+
+.table{
+  
+  
+  width: 400px;
+  height: 400px;
+  margin: 50px;
+  border: 2px solid;
+}
