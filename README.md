@@ -5,7 +5,9 @@ Use "/products", "/dashboard" params along with host link
 Navigation
 
 Initial : Home screen
+
 "/products" takes to Products List page
+
 "/dashboard" takes to dashboard page
 
 
