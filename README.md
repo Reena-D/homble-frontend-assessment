@@ -1,3 +1,13 @@
+Host link https://homble-frontend-assessment.vercel.app/
+Use "/products", "/dashboard" params along with host link(https://homble-frontend-assessment.vercel.app/)
+Navigation
+Initial : Home screen
+"/products" takes to Products List page
+"/dashboard" takes to dashboard page
+
+
+
+
 # Homble Frontend Assessment
 
 Welcome to the repository for the frontend engineer assessment at Homble. Visit us at [Homble](http://www.homble.in).
