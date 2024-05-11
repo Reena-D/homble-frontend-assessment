@@ -1,9 +1,12 @@
 Host link https://homble-frontend-assessment.vercel.app/
-#Use "/products", "/dashboard" params along with host link(https://homble-frontend-assessment.vercel.app/)
-#Navigation
-#Initial : Home screen
-#"/products" takes to Products List page
-#"/dashboard" takes to dashboard page
+
+Use "/products", "/dashboard" params along with host link
+
+Navigation
+
+Initial : Home screen
+"/products" takes to Products List page
+"/dashboard" takes to dashboard page
 
 
 
