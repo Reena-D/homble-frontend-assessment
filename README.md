@@ -1,4 +1,6 @@
-Host link https://homble-frontend-assessment.vercel.app/
+Host link 
+https://homble-frontend-assessment.vercel.app/products
+https://homble-frontend-assessment.vercel.app/
 
 Use "/products", "/dashboard" params along with host link
 
